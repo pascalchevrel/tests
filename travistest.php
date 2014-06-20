@@ -2,7 +2,7 @@
 
 print "Testing with Travis\n";
 
-$value = 10;
+$value = 3;
 
 if ($value > 5) {
     print "too big\n";
