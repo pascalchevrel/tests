@@ -1,6 +1,6 @@
 <?php
 
-print "testing with Travis\n";
+print "Testing with Travis\n";
 
 $value = 10;
 
